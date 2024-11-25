@@ -1,2 +1,2 @@
-# junaidd-design
-(UX/UI case studies, wireframes, etc.)
+#design
+Portfolios, UX/UI case studies, wireframes, etc.
